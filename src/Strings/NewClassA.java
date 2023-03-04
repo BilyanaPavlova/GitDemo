@@ -1,4 +1,4 @@
-package newpackageA;
+package Strings;
 
 public class NewClassA {
 }

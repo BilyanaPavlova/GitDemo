@@ -1,4 +1,4 @@
-package newpackageA;
+package Strings;
 
 public class ClassA2 {
     public static void main(String[] args) {
